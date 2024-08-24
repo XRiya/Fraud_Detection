@@ -1,4 +1,4 @@
-# Fraud_Detection
+# Fraud_Prediction_Model
 This project is a fraud detection system designed to identify potentially fraudulent transactions based on an analysis of various features in the dataset, such as payment methods, items purchased, and transaction amounts. The system leverages machine learning techniques to train a predictive model that can accurately classify transactions as either legitimate or fraudulent.
 
 # Features
